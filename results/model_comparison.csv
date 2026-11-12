@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1,ROC_AUC,TrainSec
+XGBoost,0.8201,0.572,0.7706,0.6566,0.887,6.3
+RandomForest,0.8414,0.6464,0.6387,0.6425,0.8753,19.8
+LogisticRegression,0.7967,0.5323,0.7326,0.6166,0.859,2.9

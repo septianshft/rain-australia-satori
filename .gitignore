@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.streamlit/secrets.toml
+
+# pkl nyasar di root (notebook modeling menyimpan ke cwd saat dijalankan lokal);
+# artifact resmi ada di artifacts/ dan TETAP di-commit.
+/*.pkl
